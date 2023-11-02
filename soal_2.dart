@@ -5,7 +5,7 @@
 /// - name (String): Nama hewan.
 /// - species (String): Jenis hewan.
 ///
-/// Selanjutnya, buat dua subclass dari Animal yaitu `Mammal` dan `Bird`.
+/// Selanjutnya, buat dua subclass (turunan) dari Animal yaitu `Mammal` dan `Bird`.
 /// Mammal akan mewakili hewan-hewan bertipe mamalia,
 /// sementara Bird akan mewakili hewan-hewan bertipe burung.
 ///
